@@ -1,0 +1,17 @@
+h4 {
+    color: black;
+    text-align: center;
+    font-size: 15.94px;
+    margin-top: 10px;
+}
+.navlink {
+    font-size: 12px;
+    width: 418.43px;
+    margin: 0 auto;
+    transition: all 0.3s;
+}
+.navlink:hover {
+    color: black;
+    width: 418.43px;
+    margin: 0 auto;
+}
