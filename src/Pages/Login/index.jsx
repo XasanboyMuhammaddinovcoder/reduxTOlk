@@ -65,7 +65,7 @@ function Login() {
         <>
           <section className='container'>
             <form className='form'>
-              <h1>Let’s go!</h1>
+              <h1>Welcome back!</h1>
               <label htmlFor="email">Email</label>
               <i className="fa-regular fa-envelope user__email"></i>
               <input ref={emailREf} type="emial" id='email' placeholder='example@site.com' />
